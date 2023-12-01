@@ -72,6 +72,3 @@ A confusion matrix was applied to assess the performance of the model. Out of 80
 
 The project successfully explored and analyzed a dataset related to gender, age, salary, and iPhone purchase behavior. By employing label encoding, outlier detection, and the Decision Tree classification model, the analysis yielded valuable insights into predicting iPhone purchases. The final model demonstrated a high accuracy rate, indicating its reliability in predicting purchase behavior based on given parameters.
 
-## Future Work
-
-Future work may involve exploring alternative models, refining feature engineering, and incorporating additional variables to further enhance the accuracy and robustness of the predictive model.
